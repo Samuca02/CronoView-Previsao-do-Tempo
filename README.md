@@ -1,4 +1,3 @@
-https://samuca02.github.io/CronoView/
 🌤️ Projeto de Previsão do Tempo
 
 
