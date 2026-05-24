@@ -1,18 +1,11 @@
-🌤️ Projeto de Previsão do Tempo
+# [🌤️ CronoView - Previsão do Tempo](https://loquacious-lily-dd33b6.netlify.app)
 
+## 🔗 Acesse o projeto
 
-Link para visualizar o site:
+[Clique aqui para abrir](https://loquacious-lily-dd33b6.netlify.app)
 
-
-   
---loquacious-lily-dd33b6.netlify.app--
-
-
-
-
-       
-O sistema permite pesquisar o nome de uma cidade e exibir informações climáticas em tempo real, como:
-
+     
+O sistema exibir informações climáticas em tempo real, como:
 
 • Temperatura
 
