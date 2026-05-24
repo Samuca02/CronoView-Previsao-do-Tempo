@@ -1,7 +1,7 @@
-🌤️ Projeto de Previsão do Tempo
+#🌤️ Projeto de Previsão do Tempo
 
-
-Aplicação web simples desenvolvida com HTML, CSS e JavaScript consumindo a API OpenWeatherMap.
+Link para visualizar o site:
+--loquacious-lily-dd33b6.netlify.app--
 
 
 O sistema permite pesquisar o nome de uma cidade e exibir informações climáticas em tempo real, como:
