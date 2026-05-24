@@ -11,7 +11,8 @@ Link para visualizar o site:
 
 
 
-O sistema permite pesquisar o nome de uma cidade e exibir informações climáticas em tempo real, como:
+  
+  O sistema permite pesquisar o nome de uma cidade e exibir informações climáticas em tempo real, como:
 
 
 • Temperatura
